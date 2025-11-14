@@ -1,0 +1,17 @@
+{
+  "name": "discord-leveling-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["discord", "bot", "leveling"],
+  "author": "",
+  "license": "ISC",
+  "description": "Discord Leveling Bot with XP system, rank cards, and role rewards",
+  "dependencies": {
+    "canvas": "^3.2.0",
+    "discord.js": "^14.24.2"
+  }
+}
